@@ -1,3 +1,4 @@
+//funcion que tiene dos parametros
 function edad(e1, e2) {
   if (e1 == e2) {
     return console.log("tienen la misma edad :" + e1);
